@@ -1,0 +1,108 @@
+.header {
+    position: relative;
+    text-align: center;
+    left: 35%;
+    width: 300px;
+    height: 60px;
+    background-color: #43E895;
+    font-family: 'Avenir-Next-Demi-Bold', ariel, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: #FFFFFF;
+}
+#headerTitle {
+    position: relative;
+    top: 25px;
+}
+#mapIco {
+    position: relative;
+    float: right;
+    font-size: 32px;
+    right: 10px;
+    bottom: 15px;
+}
+#listsDiv {
+    background-color: #43E895;
+    overflow-x:hidden;
+    overflow-y:scroll;
+    scroll-behavior: smooth;
+    position: relative;
+    bottom:16px;
+    width:300px;
+    height: 450px;
+    left:35%;
+}
+#listsDiv::-webkit-scrollbar { 
+    display: none; 
+} 
+
+#restaurant0 {
+    position: relative;
+}
+#restaurant1 {
+    position: relative;
+    bottom: 16px;
+}
+#restaurant2 {
+    position: relative;
+    bottom: 32px;
+}
+#restaurant3 {
+    position: relative;
+    bottom: 48px;
+}
+#restaurant4 {
+    position: relative;
+    bottom: 64px;
+}
+#restaurant5 {
+    position: relative;
+    bottom: 80px;
+}
+#restaurant6 {
+    position: relative;
+    bottom: 96px;
+}
+#restaurant7 {
+    position: relative;
+    bottom: 112px;
+}
+#restaurant8 {
+    position: relative;
+    bottom: 128px;
+}
+#restaurant9 {
+    position: relative;
+    bottom: 144px;
+}
+#restaurant10 {
+    position: relative;
+    bottom: 160px;
+}
+#restaurant11 {
+    position: relative;
+    bottom: 176px;
+}
+#restaurant12 {
+    position: relative;
+    bottom: 192px;
+}
+#restaurant13 {
+    position: relative;
+    bottom: 208px;
+}
+#restaurant14 {
+    position: relative;
+    bottom: 224px;
+}
+
+#maps {
+    position: relative;
+    left: 35%;
+    bottom: 450px;
+    height: 180px;
+    width: 300px;
+}
+.slide {
+    height:180px;
+}
